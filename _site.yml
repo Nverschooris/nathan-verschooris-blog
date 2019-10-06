@@ -14,5 +14,6 @@ navbar:
 base_url:  https://Nverschooris.github.io/nathan-verschooris-blog/
 collections:
     posts:
+      disqus: nathan-verschooris-blog 
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
