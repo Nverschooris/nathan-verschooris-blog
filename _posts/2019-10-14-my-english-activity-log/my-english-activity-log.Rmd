@@ -1,0 +1,23 @@
+---
+title: "My english activity log"
+description: 
+  
+author:
+  - name: Nathan Verschooris
+    url: {}
+date: 10-14-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+  * Films
+  * TV series
+  * Books
+  * Newspapers
+  * Podcasts
+  

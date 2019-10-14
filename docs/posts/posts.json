@@ -1,5 +1,35 @@
 [
   {
+    "path": "posts/2019-10-14-article-1/",
+    "title": "article 1",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nathan Verschooris",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-14T22:22:35+02:00"
+  },
+  {
+    "path": "posts/2019-10-14-my-english-activity-log/",
+    "title": "My english activity log",
+    "description": {},
+    "author": [
+      {
+        "name": "Nathan Verschooris",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-14T22:21:10+02:00"
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
     "description": {},
