@@ -1,11 +1,11 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 : test"
 author:
-  - name: Nicolas Devilez
+  - name: "Nathan Verschoors"
 date: 09-18-2019
 categories:
-  - elephant
-  - track
+  - nothing for now
+  - nothing for now
 preview: image/where-s-my-elephant.jpg
 output:
   distill::distill_article:
