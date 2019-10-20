@@ -1,7 +1,7 @@
 ---
-title: "article 1"
-description: |
-  A short description of the post.
+title: "'Doublet' immune cells more common and more important than previously thought"
+description: 
+  
 author:
   - name: Nathan Verschooris
     url: {}
@@ -14,13 +14,57 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+![ Representative 3D-reconstructed image of a doublet of a T cell (CD3, green) and a monocyte (CD14, blue). Credit: Dr. Yunmin Jung, La Jolla Institute](https://scx1.b-cdn.net/csz/news/800/2019/nocellisanis.jpg)
+
+## Article
+**Sorting** through individual immune cells is a **handy** way to see how the body responds to disease. For years, researchers around the world have used a technique called **flow cytometry** to separate different types of immune cells, such as **T cells**, **B cells** and **monocytes**. But occasionally they'd see two cells stuck together as a "doublet." Many **regarded** doublets as an artefact of the flow cytometry process, and it was common place to "dump" those conjoined cells before **gathering** data.
+
+That was until scientists at the La Jolla Institute of Immunology (LJI) took a closer look at doublets and **uncovered** their link to disease. In a new study, published on June 25, 2019, in the journal eLife, the researchers report that higher levels of doublets can be found in people with severe cases of tuberculosis or dengue fever.
+
+This finding shows that doublets are not simply technical artefacts of the flow cytometry process. Instead of ignoring these doublets, scientists could study them to predict disease progression and even vaccine **effectiveness**.
+
+"It's an important lesson learned," says Bjoern Peters, Ph.D., a professor in the Vaccine Discovery Division at LJI and senior author of the new study. "By studying these cells and how they communicate, we might learn more about the immune system."
+
+The presence of doublets also explains cases where an immune cell **appears** to show gene expression of two distinct types of immune cells. Peters and his team have studied thousands of these odd "double expressors" and shown that these are actually doublets. "You look closer, and really it's two cells," says Peters.
+
+The team was inspired to investigate doublets when they **ran into** a **puzzling** group of cells in blood **samples** from patients with tuberculosis. Their flow cytometry experiments revealed immune cells in these patients the characteristics of both monocyte cells and T cells. The scientists saw the same strange cells in patients with dengue fever.
+
+Julie Burel, Ph.D., postdoctoral research **fellow** at LJI, realized that high levels of these double expressors correlated with a higher risk of disease progression in the patients. Her **follow-up** experiments showed that these cells were in reality doublets made up of a monocyte and a T cell stuck together.
+
+The researchers then started looking for these doublets in more samples. They found that while recently infected patients tend to have more doublets, doublets appear to be surprisingly common in everyone. "Every blood sample we've analyzed contains doublets," says Burel, who served as first author of the new study.
+
+So why did it take so long to find them?
+
+"Instrument **sensitivity** is a lot higher now, so we're able to see things no one could see 10 years ago," Peters says.
+
+The presence of doublets makes complete sense if you consider the role of T cells in the body, Peters explains. "T cells are **meant** to **monitor** what's going on in other cells, and detect and even kill infected cells -- so it makes sense to study T cells that are found in complexes with other cells," says Peters.
+
+In tuberculosis and dengue fever, monocytes become **reservoirs** for disease, so T cells would be more likely to come in contact with monocytes and form doublets.
+
+Peters says doublets are likely **relevant** in many other diseases. After all, infection **prompts** immune cells to communicate and interact more closely. That could mean they are more likely to form doublets. "The immune system is a very complicated, social network," says Burel. "Flow cytometry is meant to break cells apart, but actually, doublets matter."
+
+As Peters likes to put it, "no cell is an island." The new research has inspired his lab to look beyond the single-cell analysis usually done with flow cytometry and instead gather more data on doublets.
+
+One question is **whether** measuring doublets could allow researchers to detect disease before a patient even shows the symptoms. This could be critical for stopping fast-moving diseases such as dengue. Doublets could also indicate when a vaccine is **sparking** an effective immune response, which could help speed up vaccine research.
+
+"Doublets could be a **biomarker** for any immune perturbation," Burel says.
+
+## Source of the article with publication and word count
+
+source of the article : https://www.sciencedaily.com/releases/2019/06/190625093255.htm
+
+word count: 683
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English | Translation in french |
+| Words from the text | Synonym/explanation in English | french translation |
 | ------------------- | ------------------------------ | ---------------|
 | to sort  |   classify, put in order                |trier|
 | handy                    |   useful       | pratique|
+|flow cytometry| technique used to detect and measure physical and chemical characteristics of a population of cells or particles|cytométrie en flux|
+|T cell| a lymphocyte of a type produced or processed by the thymus gland and actively participating in the immune response.|lymphocyte T|
+|B cell|a lymphocyte not processed by the thymus gland, and responsible for producing antibodies.|lymphocyte B|
+|monocyte|large phagocytic white blood cell (cell who can "swallow" small parasites, bacteria, viruses,...) |monocyte|
 |to regard sth as|think of|considérer qqch comme|
 |gathering|act of collecting or harvesting|collecte|
 |to uncover|reveal through investigation|découvrir, mettre au jour|
@@ -44,13 +88,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
+| Researchers                  |  La Jolla Institute of Immunology(LJI); Judie Burel,Ph.D., postdoctoral research fellow at LJI (main author: Bjoern Peters, professor in the Vaccine Discovery Division at LJI)
+|
+| Published in?                | ScienceDaily, June 25, 2019                                                      |
+| General topic?               | What is behind the 'doublet' immune cells-- long dismissed as technical artifacts -- found in peaple with severe cases of tuberculosis or dengue fever. What might be their roles.  |
+| Procedure/what was examined? | First, they examined the composition of the doublets with  |
+| Conclusions/discovery?       |  The Doublet immune cells is       |
 | Remaining questions?         | (check if there are still interrogations at the end of the article) |
 
 
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
+
 
