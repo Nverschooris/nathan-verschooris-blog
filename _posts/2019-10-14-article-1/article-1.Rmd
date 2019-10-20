@@ -6,6 +6,7 @@ author:
   - name: Nathan Verschooris
     url: {}
 date: 10-14-2019
+preview: https://scx1.b-cdn.net/csz/news/800/2019/nocellisanis.jpg 
 output:
   distill::distill_article:
     self_contained: false
@@ -88,12 +89,12 @@ word count: 683
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  La Jolla Institute of Immunology(LJI); Judie Burel,Ph.D., postdoctoral research fellow at LJI (main author: Bjoern Peters, professor in the Vaccine Discovery Division at LJI)
+| Researchers                  |  La Jolla Institute of Immunology(LJI): Judie Burel(Ph.D., postdoctoral research fellow at LJI) , Bjoern Peters (lead author,Ph.D.,professor in the Vaccine Discovery Division at LJI)
 |
 | Published in?                | ScienceDaily, June 25, 2019                                                      |
-| General topic?               | What is behind the 'doublet' immune cells-- long dismissed as technical artifacts -- found in peaple with severe cases of tuberculosis or dengue fever. What might be their roles.  |
-| Procedure/what was examined? | They analyzed the rate of these doublets in people with severe tuberculosis or dengue fever.   |
-| Conclusions/discovery?       |  The Doublet immune cells is       |
+| General topic?               | What is behind the 'doublet' immune cells-- long dismissed as technical artifacts -- found in people with severe cases of tuberculosis or dengue fever. What might be their roles.  |
+| Procedure/what was examined? | 1)They analyzed the rate of these doublets in people with severe tuberculosis or dengue fever.2) Parallel to this, they studied more closely the so-called "doubles expressor" cells (expressing the genetic information of two distinct types of immune cells)to determine if there is a link with these famous doublets. 3)At last,they analysed the rate of doublets in all types of patients (sick or not).   |
+| Conclusions/discovery?       |  The researchers concluded that doublets are not technical artifacts of the flow cytometry process. It is actually a complex formed between a T cell and a monocyte (hence the double expression of genes). Although they are present in everyone, they are more common in people with rapidly progressive diseases such as dengue fever or tuberculosis. The researchers also highlighted the importance of studying the immune system as a whole.|
 | Remaining questions?         | Could measuring doublets in a patient detect the disease before he or she even shows symptoms? |
 
 
