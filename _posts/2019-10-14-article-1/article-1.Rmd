@@ -15,5 +15,42 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Vocabulary 
 
+| Words from the text | Synonym/explanation in English | Translation in french |
+| ------------------- | ------------------------------ | ---------------|
+| to sort  |   classify, put in order                |trier|
+| handy                    |   useful       | pratique|
+|to regard sth as|think of|considérer qqch comme|
+|gathering|act of collecting or harvesting|collecte|
+|to uncover|reveal through investigation|découvrir, mettre au jour|
+|effectiveness|abilty to accomplish aim|efficacité|
+|to appear to show|seem to show|semble présenter|
+|to run into|collide with, crash into|percuter, heurter|
+|puzzling|confusing, mysterious| déconcertant, déroutant|
+|sample|representative piece|échantillon|
+|fellow|member|membre, affilé à|
+|follow-up||suivi|
+|sensitivity|machine or instrument responsiveness|sensibilité, réactivité|
+|to monitor|observe|surveiller|
+|reservoir|tank (figurative)|réservoir|
+|relevent|related, pertinent|pertinent|
+|to prompt|In this case, it means "encourage","induce"|inciter|
+|wheter|if|si|
+|to spark|lead to (figurative)|déclencher|
+|biomarker|indicator (in biology)|biomarqueur|
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | (insert names and, if possible, professions)                        |
+| Published in?                | (insert date)                                                       |
+| General topic?               |  (summarize the topic in one or two sentences)                      |
+| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
+| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
+| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+
+
+<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
 
