@@ -1,5 +1,5 @@
 ---
-title: "'Doublet' immune cells more common and more important than previously thought"
+title: "Article 1: 'Doublet' immune cells more common and more important than previously thought"
 description: 
   
 author:
@@ -29,7 +29,7 @@ The presence of doublets also explains cases where an immune cell **appears** to
 
 The team was inspired to investigate doublets when they **ran into** a **puzzling** group of cells in blood **samples** from patients with tuberculosis. Their flow cytometry experiments revealed immune cells in these patients the characteristics of both monocyte cells and T cells. The scientists saw the same strange cells in patients with dengue fever.
 
-Julie Burel, Ph.D., postdoctoral research **fellow** at LJI, realized that high levels of these double expressors correlated with a higher risk of disease progression in the patients. Her **follow-up** experiments showed that these cells were in reality doublets made up of a monocyte and a T cell stuck together.
+Julie Burel, Ph.D., postdoctoral research **fellow at** LJI, realized that high levels of these double expressors correlated with a higher risk of disease progression in the patients. Her **follow-up experiments** showed that these cells were in reality doublets made up of a monocyte and a T cell stuck together.
 
 The researchers then started looking for these doublets in more samples. They found that while recently infected patients tend to have more doublets, doublets appear to be surprisingly common in everyone. "Every blood sample we've analyzed contains doublets," says Burel, who served as first author of the new study.
 
@@ -55,7 +55,7 @@ source of the article : https://www.sciencedaily.com/releases/2019/06/1906250932
 
 word count: 683
 
-## Vocabulary 
+## Vocabulary (Look at the bold words in the article above)
 
 | Words from the text | Synonym/explanation in English | french translation |
 | ------------------- | ------------------------------ | ---------------|
@@ -73,8 +73,8 @@ word count: 683
 |to run into|collide with, crash into|percuter, heurter|
 |puzzling|confusing, mysterious| déconcertant, déroutant|
 |sample|representative piece|échantillon|
-|fellow|member|membre, affilé à|
-|follow-up||suivi|
+|fellow at|in relation to|membre de, affilé à|
+|follow-up experiments |experiments based on the monitoring and observation of a subject of study over time|expérience de suivi|
 |sensitivity|machine or instrument responsiveness|sensibilité, réactivité|
 |to monitor|observe|surveiller|
 |reservoir|tank (figurative)|réservoir|
@@ -92,9 +92,9 @@ word count: 683
 |
 | Published in?                | ScienceDaily, June 25, 2019                                                      |
 | General topic?               | What is behind the 'doublet' immune cells-- long dismissed as technical artifacts -- found in peaple with severe cases of tuberculosis or dengue fever. What might be their roles.  |
-| Procedure/what was examined? | First, they examined the composition of the doublets with  |
+| Procedure/what was examined? | They analyzed the rate of these doublets in people with severe tuberculosis or dengue fever.   |
 | Conclusions/discovery?       |  The Doublet immune cells is       |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Remaining questions?         | Could measuring doublets in a patient detect the disease before he or she even shows symptoms? |
 
 
 
