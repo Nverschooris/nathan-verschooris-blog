@@ -50,13 +50,17 @@ One question is **whether** measuring doublets could allow researchers to detect
 
 "Doublets could be a **biomarker** for any immune perturbation," Burel says.
 
+### Article in pdf format: 
+
+https://github.com/Nverschooris/nathan-verschooris-blog/blob/master/ressources/pdf_article_1.pdf
+
 ## Source of the article with publication and word count
 
 source of the article : https://www.sciencedaily.com/releases/2019/06/190625093255.htm
 
 word count: 683
 
-## Vocabulary (Look at the bold words in the article above)
+## Vocabulary (Look at the bold words in the article)
 
 | Words from the text | Synonym/explanation in English | french translation |
 | ------------------- | ------------------------------ | ---------------|
