@@ -56,7 +56,7 @@ https://github.com/Nverschooris/nathan-verschooris-blog/blob/master/ressources/p
 
 ## Source of the article with publication and word count
 
-source of the article : https://www.sciencedaily.com/releases/2019/06/190625093255.htm
+source of the article : https://www.sciencedaily.com/releases/2019/06/190625093255.htm (June 25, 2019)
 
 word count: 683
 
