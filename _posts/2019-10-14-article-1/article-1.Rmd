@@ -18,10 +18,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ![ Representative 3D-reconstructed image of a doublet of a T cell (CD3, green) and a monocyte (CD14, blue). Credit: Dr. Yunmin Jung, La Jolla Institute](https://scx1.b-cdn.net/csz/news/800/2019/nocellisanis.jpg)
 
 
-### Article in pdf format: 
-
-https://github.com/Nverschooris/nathan-verschooris-blog/blob/master/ressources/pdf_article_1.pdf
-
 ## Source of the article with publication and word count
 
 source of the article : https://www.sciencedaily.com/releases/2019/06/190625093255.htm (June 25, 2019)
