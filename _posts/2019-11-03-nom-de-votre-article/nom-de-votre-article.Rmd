@@ -1,0 +1,49 @@
+---
+title: "By targeting flu-enabling protein, antibody may protect against wide-ranging strains"
+description: 
+author:
+  - name: Nathan Verschooris
+    url: {}
+date: 11-03-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article with publication and word count
+
+source :https://www.sciencedaily.com/releases/2019/10/191025094024.htm (October 25, 2019)
+
+word count : 1096
+
+## Vocabulary (Look at the bold words in the article)
+
+| Words from the text | Synonym/explanation in English | french translation |
+| ------------------- | ------------------------------ | ---------------|
+|nationwide|throughout the country|national, à travers tout le pays|
+|antibody| a protective protein produced by the immune system in response to the presence of a foreign substance, called an antigen|anticorps|
+|influenza| viral disease affecting the respiratory system | grippe|
+|strain|variant of (virus,..)|souche|
+|tackle|make determined efforts to deal with |aborder|
+|pandemic|widespread disease|pandémie|
+|bind|tie, fasten securely|attacher, nouer, lier|
+|enable|empower, make able |permettre|
+||||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
