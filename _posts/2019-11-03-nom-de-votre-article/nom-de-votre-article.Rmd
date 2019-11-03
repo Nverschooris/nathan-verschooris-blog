@@ -18,11 +18,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Source of the article with publication and word count
 
-source :https://www.sciencedaily.com/releases/2019/10/191025094024.htm (October 25, 2019)
+source: https://www.sciencedaily.com/releases/2019/10/191025094024.htm (October 25, 2019)
 
-word count : 1096
+word count: 1096
 
-## Vocabulary (Look at the bold words in the article)
+## Vocabulary 
 
 | Words from the text | Synonym/explanation in English | french translation |
 | ------------------- | ------------------------------ | ---------------|
@@ -59,13 +59,13 @@ word count : 1096
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  
+| Researchers                  | Florian Krammer (co-senior author, PhD, a microbiology professor at the Icahn School of Medicine at Mount Sinai); Ian Wilson (senior co-author, DPhil, Scripps Research Institute); Ali Ellebedy (co-senior author, PhD, an assistant professor of pathology and immunology at Washington University)
 |
 | Published in?                | ScienceDaily, October 25, 2019                                                     |
-| General topic?               |   |
-| Procedure/what was examined? |    |
-| Conclusions/discovery?       |  |
-| Remaining questions?         |  |
+| General topic?               | Discovery and analysis of a new antibody capable of combating all strains of influenza viruses  |
+| Procedure/what was examined? | 1) A. Ellebedy discovered and isolated antibodies acting against the influenza virus in unusual ways in infected blood samples.2) F. Krammer tested these 3 antibodies against a large library of neuraminidase proteins. 3)Then, he injected these same three antibodies into mice infected with different strains of influenza. 4) A researcher mapped the structures of the antibodies when they react (bind) to neuraminidase |
+| Conclusions/discovery?       | The researchers found that there are antibodies that can fight many more strains of influenza by affecting the neuraminidase protein present on the surface of viruses. They even noticed that one of them (1G01) is effective against all strains of virus and can be administered much later than usual drugs (Tamiflu). In fact, they understood that the particular structures of these antibodies act on the active site of neuraminidase (which is the same for all influenza virus strains) and thus prevent virus replication. Finally, they believe that studying these antibodies would lead to the creation of a true universal influenza vaccine.|
+| Remaining questions?         | / |
 
 
 
