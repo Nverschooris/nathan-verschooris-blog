@@ -1,10 +1,11 @@
 ---
-title: "By targeting flu-enabling protein, antibody may protect against wide-ranging strains"
+title: "Article 2: By targeting flu-enabling protein, antibody may protect against wide-ranging strains"
 description: 
 author:
   - name: Nathan Verschooris
     url: {}
 date: 11-03-2019
+preview: https://www.sciencedaily.com/images/2019/10/191025094024_1_900x600.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -13,6 +14,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+![Influenza Virus structure (image from Centers for Disease Control and Prevention (CDC)  )](https://www.cdc.gov/flu/images/h1n1/3D_Influenza_blue_key_pieslice_lrg.jpg)
 
 ## Source of the article with publication and word count
 
@@ -32,7 +34,40 @@ word count : 1096
 |pandemic|widespread disease|pandémie|
 |bind|tie, fasten securely|attacher, nouer, lier|
 |enable|empower, make able |permettre|
-||||
+|to match|correspond to, join|correspondre à|
+|swine|pig (the animal)|porc|
+|avian|related to birds|aviaire|
+|consenting patient|patient who give permission for something to happen|patient consentant|
+|extensive|wide, great|vaste, imposante|
+|breadth|the fact of including many different things, features, subjects, or qualities|ampleur|
+|broad|wide|large|
+|potent|stong, powerful|puissant, fort|
+|unheard of|has never happened|du jamais-vu, inédit|
+|mind-boggling|overwhelming; startling|ahurissant|
+|antigen|a toxin or other foreign substance which induces an immune response in the body, especially the production of antibodies|antigène|
+|computational|involving calculation|informatique, statistique|
+|numerous|many, great in number|de nombreux|
+|seminal|strongly influencing later developments, influential|fondamental|
+|active site|a region on an enzyme that binds to a protein or other substance during a reaction.||
+|gear|a toothed wheel that works with others to alter the relation between the speed of a driving mechanism (such as the engine of a vehicle) and the speed of the driven parts (the wheels)|engrenage|
+|thereby|by that means|ainsi|
+|provide|furnish, supply|fournir|
+|overlooked|neglected, not spotted|oublié, omis|
+|grant|financial award|bourse, subvention|
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  
+|
+| Published in?                | ScienceDaily, October 25, 2019                                                     |
+| General topic?               |   |
+| Procedure/what was examined? |    |
+| Conclusions/discovery?       |  |
+| Remaining questions?         |  |
+
+
 
 
 
