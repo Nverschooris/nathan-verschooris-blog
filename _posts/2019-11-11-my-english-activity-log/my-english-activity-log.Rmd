@@ -1,0 +1,45 @@
+---
+title: "My English activity log"
+description: 
+  
+author:
+  - name: Nathan Verschooris
+    url: {}
+date: 10-10-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Films
+  
+  * The Impossible
+  * Me before you
+  
+## Books
+  
+## Newspapers
+  
+## Youtube
+   
+  * some podcasts  
+  * several animal documentaries (BBC earth)
+  * report on the exchanges between immune cells
+  * Review of the movie "Joker"
+   
+## Video games
+  
+  * Dark souls 3
+  * Skyrim 
+  * Bloodborn
+  
+## Mangas
+
+  * Jojo's bizarre adventure 
+  * Hunter x Hunter
+  
+
