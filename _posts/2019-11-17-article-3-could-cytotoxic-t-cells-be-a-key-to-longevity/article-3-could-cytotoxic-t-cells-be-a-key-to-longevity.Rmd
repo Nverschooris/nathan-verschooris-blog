@@ -29,6 +29,7 @@ word count: 607
 | Words from the text | Synonym/explanation in English | french translation |
 | ------------------- | ------------------------------ | ---------------|
 |RNA|ribonucleic acid, a nucleic acid present in all living cells. Its principal role is to act as a messenger carrying instructions from DNA for controlling the synthesis of proteins|ARN|
+|single-cell RNA analysis|set of molecular biology techniques that allows the analysis of genetic information (DNA, RNA, etc.) at the scale of a single cell, thanks to the optimization of new generation sequencing technologies. This technology makes it possible to study cellular differences with optimal resolution and thus to understand the particularity of a cell within its micro-environment.|séquencage de cellule unique|
 |cytotoxic|poisonous to living cells|cytotoxique|
 |somewhat|to a certain extent|assez, quelque peu|
 |set out smthg|lay out, arrange smthg |entreprendre|
@@ -45,11 +46,12 @@ word count: 607
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | 
+| Researchers                  | Kosuke Hashimoto of IMS (first author of the paper), IMS Deputy Director Piero Carninci (one of the leaders of the groups), Scientists from the RIKEN Center for Integrative Medical Science (IMS) and Keio University School of Medicine in Japan.
 |
 | Published in?                | ScienceDaily, November 13, 2019                                                    |
-| General topic?               |   |
-| Procedure/what was examined? | |
-| Conclusions/discovery?       | |
-| Remaining questions?         | |
+| General topic?               |Analysis of the types of immune cells (especially T-cells) that supercentenarians possess in order to understand why they are more resistant to certain diseases such as infections and cancers.   |
+| Procedure/what was examined? |1) First, the researchers analyzed the circulating immune cells of a group of supercentenarians (using the single-cell RNA analysis) and compared these results with the immune cell composition of a younger group. 2)Then they focused on T cell composition based on the type of marker on the cell surface: CD4 (normally non-cytotoxic) or CD8 (tendency to be cytotoxic). 3) Finally, they analyzed in detail the blood cells of 2 supercentenarians |
+| Conclusions/discovery?       |The researchers noted that supercentenarians had far more cytotoxic T-cells than young subjects. They also realized that these killer cells are not CD8-positive as initially thought but CD4-positive (therefore normally non-cytotoxic) which have acquired a cytotoxic status. These particular CD4-positive cells are actually clones of the same initial cell and seem to be a characteristic of old age. Finally, the researchers believe that these cytotoxic cells could be the reason for the good health of supercentenarians.
+|
+| Remaining questions?         |/|
 
