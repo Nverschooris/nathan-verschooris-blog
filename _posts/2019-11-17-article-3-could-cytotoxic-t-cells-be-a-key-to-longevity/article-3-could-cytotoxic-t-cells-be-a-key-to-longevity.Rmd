@@ -1,0 +1,55 @@
+---
+title: "Article 3: Could cytotoxic T-cells be a key to longevity?"
+description: 
+  
+author:
+  - name: Nathan Verschooris
+    url: {}
+date: 11-17-2019
+preview: https://www.sciencedaily.com/images/2019/11/191113101845_1_540x360.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Elderly man's hands on cane (stock image).Credit: © sergign / Adobe Stock](https://www.sciencedaily.com/images/2019/11/191113101845_1_540x360.jpg)
+
+## Source of the article with publication and word count
+
+source: https://www.sciencedaily.com/releases/2019/11/191113101845.htm (November 13, 2019)
+
+word count: 607
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | french translation |
+| ------------------- | ------------------------------ | ---------------|
+|RNA|ribonucleic acid, a nucleic acid present in all living cells. Its principal role is to act as a messenger carrying instructions from DNA for controlling the synthesis of proteins|ARN|
+|cytotoxic|poisonous to living cells|cytotoxique|
+|somewhat|to a certain extent|assez, quelque peu|
+|set out smthg|lay out, arrange smthg |entreprendre|
+|subset|set within a larger set|sous-ensemble|
+|turn out|prove to be the case|s'avérer|
+|intriguingly|making smthg curious|curieusement,étrangement|
+|arise from|result|résulter de |
+|progeny|descendants|progéniture, descendance|
+|cytokines|group of proteins secreted by cells of the immune system that act as chemical messengers.|cytokines|
+|feature|characteristic|caractéristique, particularité|
+|insight|profound perception/understanding|perspicacité|
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | 
+|
+| Published in?                | ScienceDaily, November 13, 2019                                                    |
+| General topic?               |   |
+| Procedure/what was examined? | |
+| Conclusions/discovery?       | |
+| Remaining questions?         | |
+
