@@ -1,11 +1,12 @@
 ---
-title: "A new pathway to 'reprogram' killer cells"
+title: "Article 4: A new pathway to 'reprogram' killer cells"
 description: 
   
 author:
   - name: Nathan Verschooris
     url: {}
 date: 12-01-2019
+preview: https://blog.dana-farber.org/insight/wp-content/uploads/2018/09/Unknown.jpeg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![]()
+![NK cell. Image from Dana-Farber Cancer institute](https://blog.dana-farber.org/insight/wp-content/uploads/2018/09/Unknown.jpeg)
 
 ## Source of the article with publication and word count
 
@@ -27,13 +28,19 @@ word count: 593
 
 | Words from the text | Synonym/explanation in English | french translation |
 | ------------------- | ------------------------------ | ---------------|
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|at bay |at a distance |à distance|
+|defective|imperfect or faulty|defectueux|
+|ligand|molecule that binds to another (usually larger) molecule|ligand|
+|dock|moor (for a ship). here it means "tie up"|s'amarrer|
+|necrosis|dead body tissue|nécrose|
+|apoptosis|death of cells which occurs as a normal and controlled part of an organism's growth or development|apoptose|
+|trigger|set in motion, provoke|déclencher, provoquer |
+|detrimental|bad, damaging|néfaste, nocif|
+|tame|domesticated|apprivoisé, domestiqué|
+|rodent|a gnawing mammal of an order that includes rats, mice, squirrels,...|rongeur|
+|lack|shortage|manque, pénurie|
+|relevance|effect, connection|pertinence|
+|aim|choose a target|cibler|
 ||||
 ||||
 
