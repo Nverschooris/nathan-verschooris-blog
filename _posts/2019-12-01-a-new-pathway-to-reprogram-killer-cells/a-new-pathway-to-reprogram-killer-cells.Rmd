@@ -41,21 +41,20 @@ word count: 593
 |lack|shortage|manque, pénurie|
 |relevance|effect, connection|pertinence|
 |aim|choose a target|cibler|
-||||
-||||
+
 
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | 
+| Researchers                  | University of Bern: Ludmila Cardoso Alves, Michael D. Berger, Thodoris Koutsandreas, Nick Kirschke, Christoph Lauer, Roman Spörri, Aristotelis Chatziioannou, Nadia Corazza, Philippe Krebs.
 |
-| Published in?                |                                                   |
-| General topic?               |   |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       | |
-| Remaining questions?         | |
+| Published in?                |  ScienceDaily, November 20, 2019   |
+| General topic?               | The researchers have discovered a way to influence the behaviour of so-called natural killer cells (cells that can help in the fight against cancer)  |
+| Procedure/what was examined? |They observed and studied infection with a natural virus in two types of mice: mice with NK (natural killer) cells containing the TRAIL protein and mice with NK cells lacking TRAIL.   |
+| Conclusions/discovery?       |Scientists have noticed that mice whose NK cells did not have TRAIL fight the infection much better. In reality, the lack of TRAIL "calms" the NK cells in their killer properties. On the other hand, these "tamed" cells will secrete many more molecular messengers capable of activating other cells of the immune system such as T cells (helping to fight infection).  In conclusion, the amount of TRAIL present in NK cells plays a very important role in its behaviour in the body. |
+| Remaining questions?         |/ |
 
 
 
