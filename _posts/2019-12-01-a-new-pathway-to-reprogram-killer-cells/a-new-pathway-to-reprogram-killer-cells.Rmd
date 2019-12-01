@@ -1,0 +1,54 @@
+---
+title: "A new pathway to 'reprogram' killer cells"
+description: 
+  
+author:
+  - name: Nathan Verschooris
+    url: {}
+date: 12-01-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![]()
+
+## Source of the article with publication and word count
+
+source: https://www.sciencedaily.com/releases/2019/11/191120070721.htm (November 20, 2019)
+
+word count: 593
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | french translation |
+| ------------------- | ------------------------------ | ---------------|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | 
+|
+| Published in?                |                                                   |
+| General topic?               |   |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       | |
+| Remaining questions?         | |
+
+
+
