@@ -1,0 +1,55 @@
+---
+title: "Article 5 : What protects killer immune cells from harming themselves?"
+description: |
+ 
+author:
+  - name: Nathan Verschooris
+    url: {}
+date: 12-15-2019
+preview: https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/e/f/b/efb6d542cd_50011622_perforine-nature.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![The perforine © Nature (image from https://www.futura-sciences.com/sante/actualites/medecine-perforine-dangereuse-proteine-25910/ )](https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/e/f/b/efb6d542cd_50011622_perforine-nature.jpg)
+
+## Source of the article with publication and word count
+
+source: https://www.sciencedaily.com/releases/2019/11/191127090212.htm (November 27, 2019)
+
+word count: 489
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | french translation |
+| ------------------- | ------------------------------ | ---------------|
+|harm|damage, injury|dégats, dommage|
+|immunotherapy|the prevention or treatment of disease with substances that stimulate the immune response|immunothérapie|
+|namely|that is to say, to be specific (used to introduce detailed information or a specific example)|à savoir|
+|providing|on the condition or understanding that|à condition que|
+|rid sb/smthg of sb/smthg|free of, clear of| débarasser de  |
+|hole-punching|hole maker|qui comme propriété de percer des trous dans qqch|
+|to screen |pass through screen|passer au crible, filtrer|
+|we are now keen to|We now want to, We would now like to|nous tenons maintenant à|
+
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Jesse A. Rudd-Schmidt, Adrian W. Hodel, Tahereh Noori, Jamie A. Lopez, Hyun-Jung Cho, Sandra Verschoor, Annette Ciccone, Joseph A. Trapani, Bart W. Hoogenboom, Ilia Voskoboinik
+|
+| Published in?                | ScienceDaily, November 27, 2019   |
+| General topic?               |  Cytotoxic T cells secrete enzymes that disintegrate the membrane of malignant cells. In this article, the researchers tried to understand why, strangely enough, these white blood cells are immune to their own poison.|
+| Procedure/what was examined? |The researchers studied the effect of perforin, a protein that can drill holes in cell membranes, on the cells that produce it (cytotoxic T cells) to understand why they are immune to it. Perforin is only effective in a specific order and packing of membrane lipids allowing the protein to bind to the membrane (which forms the first protective barrier) They therefore confronted these white blood cells with such a quantity of perforin that they attach themselves despite the first protective barrier.  |
+| Conclusions/discovery?       | Since, despite the first barrier of protection crossed (the perforin has attached itself well to the membrane), the membrane of the cytotoxic T cells has not been damaged, there must therefore be a second barrier. Indeed, the researchers have demonstrated that it is the physical properties of the lipids that make up the membrane that prevent the protein from acting. In fact, the negative charges present on some lipids cause the binding of perforins.
+ |
+| Remaining questions?         | Do cancer cells use the same type of protection as these cytotoxic white blood cells? This may explain why some of these cancer cells are immune to perforin and are more resistant to the immune system. |
+
