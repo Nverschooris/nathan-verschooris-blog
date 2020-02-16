@@ -1,0 +1,52 @@
+---
+title: "Article 6 : How immune cells switch to attack mode"
+description: 
+  
+author:
+  - name: Nathan Verschooris
+    url: {}
+date: 02-16-2020
+preview: https://www.ahdictionary.com/application/resources/arts/A5monocyte.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![The American Heritage® Dictionary of the English Language, Fifth Edition copyright ©2020 by Houghton Mifflin Harcourt Publishing Company](https://www.ahdictionary.com/application/resources/arts/A5monocyte.jpg)
+
+## Source of the article with publication and word count
+
+source: https://www.sciencedaily.com/releases/2019/12/191217123953.htm (December 17, 2019)
+
+word count: 647
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | french translation |
+| ------------------- | ------------------------------ | ---------------|
+|macrophage|A type of white blood cell that surrounds and kills microorganisms, removes dead cells, and stimulates the action of other immune system cells|macrophage|
+|upon|formal (time: immediately) |dés que|
+|sniff out|recognize or detect by or as if by smelling|flairer|
+|encounter|meet unexpectedly|rencontrer|
+|among|in the midst of|parmi, au milieu de |
+|coil|spiral|spire, spirale|
+|hunt down|to find and capture (someone or something)|traquer|
+|shed light on|Illuminate to the understanding; make intelligible| clarifier qqch|
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Mario A. Lauterbach, Jasmin E. Hanke, Magdalini Serefidou, Matthew S.J. Mangan, Carl-Christian Kolbe, Timo Hess, Maximilian Rothe, Romina Kaiser, Florian Hoss, Jan Gehlen, Gudrun Engels, Maike Kreutzenbeck, Susanne V. Schmidt, Anette Christ, Axel Imhof, Karsten Hiller, Eicke Latz.
+|
+| Published in?                | ScienceDaily, December 17, 2019 |
+| General topic?               |researchers have investigated how macrophages move from passive to aggressive mode. |
+| Procedure/what was examined? |They observed in detail what happens to macrophages after putting them in contact with LPS (molecules that activate Toll-like receptors and are responsible for their behavioural changes). |
+| Conclusions/discovery?       | After confrontation with LPS, macrophages absorb more glucose from their environment in order to convert it into acetyls. These acetyls are actually used to make the genes that code for inflammatory messenger release and cell mobility more readable (these genes are therefore much more exploited). The macrophage is thus ready to defend the organism. Process control could allow a finer regulation of the immune response and help to cure diseases such as diabetes or rheumatism.
+ |
+| Remaining questions?         | / |
