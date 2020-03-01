@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-03-01-article-7-study-unravels-how-our-immune-system-deals-with-fungal-and-viral-infections/",
+    "title": "Article 7 : Study unravels how our immune system deals with fungal and viral infections",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nathan Verschooris",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-01",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-03-01T03:17:11+01:00"
+  },
+  {
     "path": "posts/2020-02-16-article-6-how-immune-cells-switch-to-attack-mode/",
     "title": "Article 6 : How immune cells switch to attack mode",
     "description": {},

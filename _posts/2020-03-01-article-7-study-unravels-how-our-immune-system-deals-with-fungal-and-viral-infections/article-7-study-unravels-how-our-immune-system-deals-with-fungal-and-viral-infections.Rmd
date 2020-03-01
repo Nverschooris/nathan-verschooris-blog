@@ -1,0 +1,52 @@
+---
+title: "Article 7 : Study unravels how our immune system deals with fungal and viral infections"
+description: |
+  A short description of the post.
+author:
+  - name: Nathan Verschooris
+    url: {}
+date: 03-01-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![]()
+
+## Source of the article with publication and word count
+
+source: https://www.sciencedaily.com/releases/2020/02/200227144226.htm (February 27, 2020)
+
+word count: 525
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | french translation |
+| ------------------- | ------------------------------ | ---------------|
+|carry out| perform, bring to fruition| effectuer, mener à bien|
+|impared| weakened or damaged | affaibli, endomagé|
+|transplant|surgery to replace organ, etc|transplantation, greffe|
+|alongside|beside, next to|à coté de, à la hauteur de|
+|engulf|(of a natural force) sweep over (something) so as to surround or cover it completely|engloutir|
+|measles|an infectious viral disease causing fever and a red rash, typically occurring in childhood|rougeole|
+||||
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | 
+|
+| Published in?                | ScienceDaily, February 27, 2020 |
+| General topic?               | |
+| Procedure/what was examined? | |
+| Conclusions/discovery?       | 
+ |
+| Remaining questions?         | / |
+
