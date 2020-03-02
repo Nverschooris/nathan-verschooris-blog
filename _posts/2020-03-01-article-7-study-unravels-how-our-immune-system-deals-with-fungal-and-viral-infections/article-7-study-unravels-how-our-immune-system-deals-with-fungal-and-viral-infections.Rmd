@@ -1,11 +1,12 @@
 ---
 title: "Article 7 : Study unravels how our immune system deals with fungal and viral infections"
-description: |
-  A short description of the post.
+description: 
+ 
 author:
   - name: Nathan Verschooris
     url: {}
 date: 03-01-2020
+preview: https://upload.wikimedia.org/wikipedia/commons/6/6f/Cryptococcus_neoformans_using_a_light_India_ink_staining_preparation_PHIL_3771_lores.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![]()
+![Cryptococcus neoformans - Photo Credit: Content Providers(s): CDC/Dr. Leanor Haley](https://upload.wikimedia.org/wikipedia/commons/6/6f/Cryptococcus_neoformans_using_a_light_India_ink_staining_preparation_PHIL_3771_lores.jpg)
 
 ## Source of the article with publication and word count
 
@@ -33,7 +34,10 @@ word count: 525
 |alongside|beside, next to|à coté de, à la hauteur de|
 |engulf|(of a natural force) sweep over (something) so as to surround or cover it completely|engloutir|
 |measles|an infectious viral disease causing fever and a red rash, typically occurring in childhood|rougeole|
-||||
+|expel|force (someone/something) to leave a place|expulser, chasser|
+|harness|control and make use of|exploiter, maîtriser|
+
+
 
 
 
@@ -41,12 +45,12 @@ word count: 525
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | 
+| Researchers                  | Paula I. Seoane, Leanne M. Taylor-Smith, David Stirling, Lucy C. K. Bell, Mahdad Noursadeghi, Dalan Bailey, Robin C. May.
 |
 | Published in?                | ScienceDaily, February 27, 2020 |
-| General topic?               | |
-| Procedure/what was examined? | |
-| Conclusions/discovery?       | 
+| General topic?               | The researchers studied the possible immune system responses to co-infection.|
+| Procedure/what was examined? | They confronted a white blood cell with two pathogens at the same time: a virus and a fungal cell. They then studied its reaction using advanced microscopy techniques.|
+| Conclusions/discovery?       | White Blood Cells expel the fungus much more easily after ingesting it (regardless of the type of virus). This could be the white blood cell's reaction to focus on the viral infection.
  |
-| Remaining questions?         | / |
+| Remaining questions?         | What is the real advantage of this mechanism? Is it more effective against this or that infection ? |
 
