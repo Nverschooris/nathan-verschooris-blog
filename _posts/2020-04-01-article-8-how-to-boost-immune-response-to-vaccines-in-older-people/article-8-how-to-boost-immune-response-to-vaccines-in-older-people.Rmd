@@ -1,0 +1,52 @@
+---
+title: "Article 8 : How to boost immune response to vaccines in older people"
+description: |
+
+author:
+  - name: Nathan Verschooris
+    url: {}
+date: 04-01-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article with publication and word count
+
+source: https://www.sciencedaily.com/releases/2020/02/200227144226.htm (February 27, 2020)
+
+word count: 525
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | french translation |
+| ------------------- | ------------------------------ | ---------------|
+|carry out| perform, bring to fruition| effectuer, mener à bien|
+|impared| weakened or damaged | affaibli, endomagé|
+|transplant|surgery to replace organ, etc|transplantation, greffe|
+|alongside|beside, next to|à coté de, à la hauteur de|
+|engulf|(of a natural force) sweep over (something) so as to surround or cover it completely|engloutir|
+|measles|an infectious viral disease causing fever and a red rash, typically occurring in childhood|rougeole|
+|expel|force (someone/something) to leave a place|expulser, chasser|
+|harness|control and make use of|exploiter, maîtriser|
+
+
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Paula I. Seoane, Leanne M. Taylor-Smith, David Stirling, Lucy C. K. Bell, Mahdad Noursadeghi, Dalan Bailey, Robin C. May.
+|
+| Published in?                | ScienceDaily, February 27, 2020 |
+| General topic?               | The researchers studied the possible immune system responses to co-infection.|
+| Procedure/what was examined? | They confronted a white blood cell with two pathogens at the same time: a virus and a fungal cell. They then studied its reaction using advanced microscopy techniques.|
+| Conclusions/discovery?       | White Blood Cells expel the fungus much more easily after ingesting it (regardless of the type of virus). This could be the white blood cell's reaction to focus on the viral infection.
+ |
+| Remaining questions?         | What is the real advantage of this mechanism? Is it more effective against this or that infection ? |
