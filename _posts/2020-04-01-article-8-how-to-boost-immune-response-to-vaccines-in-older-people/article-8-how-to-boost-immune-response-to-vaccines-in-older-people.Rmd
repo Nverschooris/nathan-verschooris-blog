@@ -1,11 +1,12 @@
 ---
 title: "Article 8 : How to boost immune response to vaccines in older people"
-description: |
+description: 
 
 author:
   - name: Nathan Verschooris
     url: {}
-date: 04-01-2020
+date: 03-30-2020
+preview: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeUMXm4vBCfQ8cvr72CWwB6OoeQzHQD323LUJo8xwwqNs9AsM-&usqp=CAU
 output:
   distill::distill_article:
     self_contained: false
@@ -14,27 +15,26 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+![Imiquimod molecule](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeUMXm4vBCfQ8cvr72CWwB6OoeQzHQD323LUJo8xwwqNs9AsM-&usqp=CAU)
 
 ## Source of the article with publication and word count
 
-source: https://www.sciencedaily.com/releases/2020/02/200227144226.htm (February 27, 2020)
+source: https://www.sciencedaily.com/releases/2020/03/200327113752.htm (March 27, 2020)
 
-word count: 525
+word count: 582
 
 ## Vocabulary 
 
 | Words from the text | Synonym/explanation in English | french translation |
 | ------------------- | ------------------------------ | ---------------|
-|carry out| perform, bring to fruition| effectuer, mener à bien|
-|impared| weakened or damaged | affaibli, endomagé|
-|transplant|surgery to replace organ, etc|transplantation, greffe|
-|alongside|beside, next to|à coté de, à la hauteur de|
-|engulf|(of a natural force) sweep over (something) so as to surround or cover it completely|engloutir|
-|measles|an infectious viral disease causing fever and a red rash, typically occurring in childhood|rougeole|
-|expel|force (someone/something) to leave a place|expulser, chasser|
-|harness|control and make use of|exploiter, maîtriser|
-
-
+|wart|growth on the body|verrue|
+|underpin|support, justify, or form the basis for|étayer|
+|overcome|defeat, vanquish|défaire, vaincre|
+|morbidity|incidence of a disease|morbidité|
+|hub|(figurative) center of activity|centre des activité|
+|magnitude|importance|ampleur|
+|defect|imperfection|défaut, imperfection|
+|clinical trials |clinical experiments/attempts |essais cliniques |
 
 
 
@@ -42,11 +42,11 @@ word count: 525
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Paula I. Seoane, Leanne M. Taylor-Smith, David Stirling, Lucy C. K. Bell, Mahdad Noursadeghi, Dalan Bailey, Robin C. May.
+| Researchers                  | Marisa Stebegg, Alexandre Bignon, Danika Lea Hill, Alyssa Silva-Cayetano, Christel Krueger, Ine Vanderleyden, Silvia Innocentin, Louis Boon, Jiong Wang, Martin S Zand, James Dooley, Jonathan Clark, Adrian Liston, Edward Carr, Michelle A Linterman.
 |
-| Published in?                | ScienceDaily, February 27, 2020 |
-| General topic?               | The researchers studied the possible immune system responses to co-infection.|
-| Procedure/what was examined? | They confronted a white blood cell with two pathogens at the same time: a virus and a fungal cell. They then studied its reaction using advanced microscopy techniques.|
-| Conclusions/discovery?       | White Blood Cells expel the fungus much more easily after ingesting it (regardless of the type of virus). This could be the white blood cell's reaction to focus on the viral infection.
+| Published in?                | ScienceDaily, March 27, 2020 |
+| General topic?               |The immune system deteriorates in older people. Researchers have found that a drug for genital warts can help the immune system recover, including a better response to vaccines. |
+| Procedure/what was examined? |They followed the immune activity of the germinal centre (= formation of T follicular helper cells) in elderly mice and humans and tried to find ways to enhance this activity. |
+| Conclusions/discovery?       | After vaccination, older individuals (mice and humans) produce less of these follicular cells resulting in a deficiency of antibodies that diminish the effect of the vaccine. Researchers have shown that these cells actually receive fewer stimulants from other immune cells in older people. Since genital wart cream has the effect of boosting the cells that produce these stimulants, the indirect effect of the drug is to restore the proper functioning of the germinal centre (and thus immunity). 
  |
-| Remaining questions?         | What is the real advantage of this mechanism? Is it more effective against this or that infection ? |
+| Remaining questions?         |Why does germinal center activity change with age? |
