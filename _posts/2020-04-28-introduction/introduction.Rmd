@@ -1,0 +1,32 @@
+---
+title: "Introduction"
+description: |
+  A short description of the post.
+author:
+  - name: Nathan Verschooris
+    url: {}
+date: 04-28-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What is the immune system ? 
+
+The immune system is a complex set of biological processes requiring a whole panel of cells capable of recognizing what is foreign to our body and destroying it (viruses, pathogenic bacteria, parasites, etc.). Our body has many so-called immune cells with different roles and actively interacting with each other. We will meet these cells in each of the articles analyzed. There are 2 types of immune system: The innate immune system and the adaptive immune system.
+
++ The first one acts without taking into account the type of disease it fights. It is the first line of defence against an infection and is for example responsible for the allergic/inflammatory reaction. It is the cells of the myelocyte lineage that provide this system (neutrophils, monocytes, etc.). 
+
++ The lymphocyte lineage provides the adaptive immune system. It produces a specific response to a particular antigen (a substance recognized as foreign to the body) (viruses, bacteria, etc.) and keeps a memory of this antigen. If this agent infects the body again, the response will be much faster. 
+
+Obviously, the two systems are constantly in communication. Studying the mechanisms of these systems can considerably improve medicine. For example, it allows a better fight against certain diseases or make the life of elderly people more pleasant. 
+
+## My portfolio
+
+Basically the articles I cover in my portfolio focus on 2 things: understanding the mechanisms of the immune defense system and how to improve it when it's not enough. 
+
+

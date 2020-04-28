@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-04-28-introduction/",
+    "title": "Introduction",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nathan Verschooris",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-28",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-04-29T01:21:32+02:00"
+  },
+  {
     "path": "posts/2020-04-01-article-8-how-to-boost-immune-response-to-vaccines-in-older-people/",
     "title": "Article 8 : How to boost immune response to vaccines in older people",
     "description": {},
