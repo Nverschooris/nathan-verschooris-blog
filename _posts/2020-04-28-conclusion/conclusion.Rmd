@@ -1,11 +1,11 @@
 ---
 title: "Conclusion"
-description: |
-  A short description of the post.
+description: 
+  
 author:
   - name: Nathan Verschooris
     url: {}
-date: 04-28-2020
+date: 04-17-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -14,6 +14,22 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+Over the course of the articles, we have learned strategies established by the body to ensure its defence. There are interactions between T-cells and monocytes, or the body knows how to manage simultaneous attacks by first rejecting the fungus to focus on the virus.
+Previously misunderstood mechanisms have also been eclaricized:
+
++ How cytotoxic T cells do not digest themselves.
++ The behaviour of NK cells depends on the amount of TRAIL proteins they contain. 
++ How macrophages go into aggressive mode thanks to the LPS which act on the genes reading.
++ The very good health of supercentenarians can be explained by their large quantity of cytotoxic T cells.
+
+Finally, all this research will help in the fight against certain diseases. Indeed, the immunodeficiency of elderly people can be cured by a cream that acts indirectly on the germinal centre. As for rheumatism and diabetes, better regulation of LPS may be the key. Finally, a universal vaccine against all flu strains could be developed by studying a certain group of antibodies!
+
+In conclusion, the immune system is far from having given us all its secrets and studying it still allows us to discover other ways to fight against diseases!
+
+
+
 
 
 
